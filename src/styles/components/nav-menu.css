@@ -1,0 +1,4 @@
+.firstImage a:nth-child(1) > li div img,
+.firstImage a:nth-child(2) > li div img {
+    padding-left: 5px;
+}

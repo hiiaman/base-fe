@@ -1,0 +1,12 @@
+.pagination .active > a {
+    z-index: 3;
+    color: #FFFFFF !important;
+    cursor: default;
+    background-color: #28C6BB !important;
+    border-color: #28C6BB !important;
+}
+
+.pagination .active > a:hover {
+    background-color: #28C6BB;
+    border-color: #28C6BB;
+}

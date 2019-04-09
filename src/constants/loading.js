@@ -1,0 +1,1 @@
+export const LOADING_WAIT_PAGE = 'LOADING_WAIT_PAGE';
